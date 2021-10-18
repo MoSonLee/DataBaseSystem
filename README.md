@@ -2,13 +2,13 @@
 
 
  
-[1장](https://github.com/MoSonLee/DataBaseSystem/issues/1)
+[1장 바로가기](https://github.com/MoSonLee/DataBaseSystem/issues/1)
 
-[2장](https://github.com/MoSonLee/DataBaseSystem/issues/2)
+[2장 바로가기](https://github.com/MoSonLee/DataBaseSystem/issues/2)
 
-[3장](https://github.com/MoSonLee/DataBaseSystem/issues/3)
+[3장 바로가기](https://github.com/MoSonLee/DataBaseSystem/issues/3)
 
-[4장](https://github.com/MoSonLee/DataBaseSystem/issues/4)
+[4장 바로가기](https://github.com/MoSonLee/DataBaseSystem/issues/4)
 </br>
 
 ## 중간고사 정리
