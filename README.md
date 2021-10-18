@@ -18,5 +18,5 @@
 </br>
 
 ## 중간고사
-[바로가기](https://github.com/MoSonLee/DataBaseSystem/issues/중간고사)
+[바로가기](https://github.com/MoSonLee/DataBaseSystem/issues/5#issuecomment-945419313)
 </br>
