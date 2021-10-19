@@ -14,5 +14,5 @@
 ## 중간고사 정리
 [서술형](https://github.com/MoSonLee/DataBaseSystem/issues/5#issuecomment-945419313)
 
-[용어정리](https://github.com/MoSonLee/DataBaseSystem/issues/#6)
+[용어정리](https://github.com/MoSonLee/DataBaseSystem/issues/6)
 </br>
